@@ -25,7 +25,7 @@ Sistema em linha de comando (CLI) desenvolvido em Python para gestão em tempo r
 ## 🛠️ Tecnologias Utilizadas
 
 - **Linguagem:** Python 3.x
-- **Banco de Dados:** Firebird SQL (via driver nativo `firebirdsql`)
+- **Banco de Dados:** Firebird SQL (via driver `firebirdsql` e autenticação com `passlib`)
 - **Protocolos de Comunicação:** TCP/IP Raw Sockets (porta 3050 para banco e 9100 para impressora)
 - **Linguagem de Impressão:** PPLA (Argox)
 - **Ambiente de Execução:** Linux, Windows, macOS e Android (Termux)
@@ -36,5 +36,5 @@ Sistema em linha de comando (CLI) desenvolvido em Python para gestão em tempo r
 
 ### 1. Clonar o repositório:
 ```bash
-git clone [https://github.com/SEU_USUARIO/magistral-inventory-cli.git](https://github.com/SEU_USUARIO/magistral-inventory-cli.git)
+git clone [https://github.com/Edinaldo-long/magistral-inventory-cli.git](https://github.com/Edinaldo-long/magistral-inventory-cli.git)
 cd magistral-inventory-cli
