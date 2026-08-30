@@ -1,1 +1,2 @@
 firebirdsql>=1.2.2
+passlib>=1.7.4
